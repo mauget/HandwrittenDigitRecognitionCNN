@@ -5,5 +5,5 @@ https://codelabs.developers.google.com/codelabs/tfjs-training-classfication/inde
 
 Follow the tutorial at that site.
 
-To run the completed tutorial code here, browse this project's 
-[index.html](index.html)
+To run the completed tutorial code here, address this project's 
+[index.html](index.html) in your modern browser.
